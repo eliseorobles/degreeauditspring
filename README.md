@@ -2,7 +2,7 @@
 # About this project
 
 This Degree Audit tool is a senior capstone project at UTD for UTD Design
-The main objective was to make a tool which helps advisors navigate the course advising process. Streamlining it and making the experience as seamless as possible, tailored to a virtual
+The main objective was to make a tool which helps advisors navigate the course advising process. Streamlining it and making the experience as seamless as possible, tailored to a virtual experience
 
 
 ## Installation
